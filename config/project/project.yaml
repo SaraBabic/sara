@@ -1,4 +1,4 @@
-dateModified: 1732562630
+dateModified: 1732736398
 email:
   fromEmail: $EMAIL_SENDER_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -49,6 +49,7 @@ meta:
     4588913f-bc97-4ebe-8ec3-29a8efce9e67: Bilder # Bilder
     9150003f-ee06-497a-bceb-c2c169d93206: sara # sara
     62533532-ce6a-420e-8c67-b7c8029c525e: SEO-Beschreibung # SEO-Beschreibung
+    a029f576-c04e-4755-8637-52c45e991860: Image # Image
     a5ba3d2a-68ae-4b35-a7bf-f9ef56ec8d9c: Seiten # Seiten
     a7f070a5-b268-4ce3-9efa-a924ef697dc4: Seitenkonfiguration # Seitenkonfiguration
     a807a09e-c6e8-4d37-974d-6ef3c2632920: Boilerplate # Boilerplate
@@ -65,6 +66,7 @@ meta:
     d632eb1b-e6c2-4db4-8bdd-a6ca9d7b6243: Hauptnavigation # Hauptnavigation
     df9d502e-e0d0-4608-bc4b-73ea824cf9e3: Breite # Breite
     e43fa49e-981e-4db6-90e4-b05806a84e06: Text # Text
+    fdd12ccd-4b08-42bb-9a6b-298784bf9343: Image # Image
     ff673cc2-1bbc-4d7d-9f06-ccfbf36b33b5: Indexierung # Indexierung
 plugins:
   ckeditor:

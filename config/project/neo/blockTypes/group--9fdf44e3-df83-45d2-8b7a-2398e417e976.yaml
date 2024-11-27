@@ -2,6 +2,7 @@ childBlocks:
   - text
   - link
   - contactForm
+  - image
 color: teal
 conditions: null
 description: ''

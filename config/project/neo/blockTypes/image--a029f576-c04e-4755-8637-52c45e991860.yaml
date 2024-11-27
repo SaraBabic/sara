@@ -1,40 +1,36 @@
-childBlocks:
-  - text
-  - link
-  - group
-  - image
-color: fuchsia
+childBlocks: null
+color: null
 conditions: null
 description: ''
 enabled: true
 field: 582be10c-d53c-4101-b2a3-d7ce716969a3 # Module
 fieldLayouts:
-  c972894f-3dab-419e-95a8-a017c1ad0d3c:
+  87fd98fe-890d-4b46-8d58-6e857573df31:
     tabs:
       -
         elementCondition: null
         elements:
           -
             elementCondition: null
-            fieldUid: 659e06e8-6fe9-430b-a30d-6b02f7409190 # Spalten
+            fieldUid: fdd12ccd-4b08-42bb-9a6b-298784bf9343 # Image
             handle: null
             includeInCards: false
             instructions: null
-            label: Layout
+            label: null
             providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: a5021277-49cb-4413-b9b5-487b82f63147
+            uid: 312639e3-f0ba-4b12-9208-d889edec92d8
             userCondition: null
             warning: null
-            width: 50
-        name: Einstellungen
-        uid: 6971d485-8ec2-4a0a-ae1d-c6dade20ed4e
+            width: 100
+        name: Content
+        uid: 0cd38759-26d6-4985-877a-e42925b9e2c4
         userCondition: null
 group: null
 groupChildBlockTypes: true
-handle: columns
+handle: image
 icon: null
 iconFilename: ''
 ignorePermissions: true
@@ -44,5 +40,5 @@ maxSiblingBlocks: 0
 minBlocks: 0
 minChildBlocks: 0
 minSiblingBlocks: 0
-name: Spalten
+name: Image
 topLevel: true
