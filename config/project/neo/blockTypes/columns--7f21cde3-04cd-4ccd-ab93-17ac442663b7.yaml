@@ -3,6 +3,7 @@ childBlocks:
   - link
   - group
   - image
+  - headline
 color: fuchsia
 conditions: null
 description: ''

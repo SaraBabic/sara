@@ -1,0 +1,59 @@
+childBlocks: null
+color: null
+conditions: null
+description: ''
+enabled: true
+field: 582be10c-d53c-4101-b2a3-d7ce716969a3 # Module
+fieldLayouts:
+  b23bb793-4d29-446f-bfc7-77c255be4534:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: e43fa49e-981e-4db6-90e4-b05806a84e06 # Text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 0af5e745-665f-4576-ae8b-c56abec4a7c7
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: afcaedf5-aa35-4d4e-a7ad-e1be2bfb90d4 # Headline level
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 91f0c821-10e8-46c8-9ed0-d33b07ee00c6
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: dbbffdda-9dfd-4ade-97c6-92c6961f687a
+        userCondition: null
+group: null
+groupChildBlockTypes: true
+handle: headline
+icon: null
+iconFilename: ''
+ignorePermissions: true
+maxBlocks: 0
+maxChildBlocks: 0
+maxSiblingBlocks: 0
+minBlocks: 0
+minChildBlocks: 0
+minSiblingBlocks: 0
+name: Headline
+topLevel: true

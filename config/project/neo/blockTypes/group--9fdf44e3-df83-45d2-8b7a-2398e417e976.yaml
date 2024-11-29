@@ -3,6 +3,7 @@ childBlocks:
   - link
   - contactForm
   - image
+  - headline
 color: teal
 conditions: null
 description: ''
