@@ -1,0 +1,27 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  - f793a6da-d9c1-4133-8a8e-bed308d30ca5 # Blog
+handle: blogs
+maxAuthors: 1
+name: Blogs
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  9150003f-ee06-497a-bceb-c2c169d93206: # sara
+    enabledByDefault: true
+    hasUrls: true
+    template: blogs/_entry
+    uriFormat: 'blogs/{slug}'
+type: channel

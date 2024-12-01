@@ -1,6 +1,6 @@
-color: yellow
+color: null
 fieldLayouts:
-  812e72ef-4495-45c6-a236-0d7aa5298245:
+  07a451ed-5806-4ef4-94a3-e5bb0c55fe8d:
     tabs:
       -
         elementCondition: null
@@ -30,7 +30,7 @@ fieldLayouts:
             tip: null
             title: null
             type: craft\fieldlayoutelements\entries\EntryTitleField
-            uid: 0d62afb8-4454-411d-82a1-ee577463275e
+            uid: d4b7a59c-9d4f-4ac8-a4a3-2f63ce38d4bb
             userCondition: null
             warning: null
             width: 100
@@ -45,12 +45,12 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 8404141b-7744-439f-b798-475270f505bb
+            uid: 4dc5f1f3-7b21-4da2-9b3e-693a8a3efc4f
             userCondition: null
             warning: null
             width: 100
-        name: Inhalt
-        uid: a398d568-dfe6-4ca9-a710-b7b80d2bd5e4
+        name: Content
+        uid: 782ea26b-6099-41c0-a9d0-c0b9b5666c07
         userCondition: null
       -
         elementCondition: null
@@ -66,7 +66,7 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: ed0f3efc-42af-4297-85ec-a4b2e5f0d6b9
+            uid: 69bd299b-f9fd-4e34-9b96-fea266bee329
             userCondition: null
             warning: null
             width: 100
@@ -81,7 +81,22 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 87f2851a-7a8d-4779-85b3-a77053592d8a
+            uid: 6281855c-b87c-460a-971d-939659c42cad
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: ff673cc2-1bbc-4d7d-9f06-ccfbf36b33b5 # Indexierung
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c3913d7a-e400-491d-806b-69fdaa0f0ca1
             userCondition: null
             warning: null
             width: 100
@@ -96,27 +111,12 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: fa685783-01dd-4787-a450-cff0006f88e0
+            uid: 3fe92bb2-2648-4ddf-81fc-ade6dabd01a6
             userCondition: null
             warning: null
-            width: 50
-          -
-            elementCondition: null
-            fieldUid: ff673cc2-1bbc-4d7d-9f06-ccfbf36b33b5 # Indexierung
-            handle: null
-            includeInCards: false
-            instructions: null
-            label: null
-            providesThumbs: false
-            required: false
-            tip: null
-            type: craft\fieldlayoutelements\CustomField
-            uid: 03e4c31e-d912-4bb1-8120-d02b5f8085e3
-            userCondition: null
-            warning: null
-            width: 50
+            width: 100
         name: SEO
-        uid: d53a8e9c-f97f-4138-960c-a12bf79b622b
+        uid: f879647d-6ef4-439c-98b5-b7ccfcd937f0
         userCondition: null
       -
         elementCondition: null
@@ -132,7 +132,7 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 84365fdd-1306-43b7-a9a2-92ebf535f37c
+            uid: 5e235381-5b6c-45ac-a2de-df83a6eea9b0
             userCondition: null
             warning: null
             width: 100
@@ -147,7 +147,7 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: d77199a6-c69e-4a21-87c6-19cadadd3662
+            uid: 209f5fb7-d75a-42c3-aaac-f1b16f977750
             userCondition: null
             warning: null
             width: 100
@@ -162,7 +162,7 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: f27fe90f-8c54-4a73-a294-72d6fec209b0
+            uid: 46be764e-40d2-488e-b01c-e946502b0bee
             userCondition: null
             warning: null
             width: 100
@@ -177,17 +177,17 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 217f4e0c-09a6-47d3-a0c2-4b40b265c6a1
+            uid: 10b51195-c9fc-44ae-acab-25a9ba2cc06a
             userCondition: null
             warning: null
             width: 100
         name: Stage
-        uid: 4c7f7ad9-3585-4f85-bb4e-24f3d3c92b50
+        uid: f1de11ce-76ee-4038-abe5-16b12e9e750a
         userCondition: null
-handle: page
+handle: blog
 hasTitleField: true
-icon: file
-name: Standard
+icon: ''
+name: Blog
 showSlugField: true
 showStatusField: true
 slugTranslationKeyFormat: null

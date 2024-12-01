@@ -1,4 +1,4 @@
-dateModified: 1732915328
+dateModified: 1733082347
 email:
   fromEmail: $EMAIL_SENDER_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -32,8 +32,10 @@ meta:
     6fc95d6d-5f0d-47db-9505-2dcfa358def6: 'Textabschnitt - Absatz - Text' # Textabschnitt - Absatz - Text
     7a5156f8-29e4-40da-9574-4f2b8abdff1e: Hauptnavigation # Hauptnavigation
     07c5f08c-88c4-4799-9bd6-e98816f41036: Homepage # Homepage
+    7edacf73-0358-4f0e-a9c8-687eb26db450: 'Stage Description' # Stage Description
     7f21cde3-04cd-4ccd-ab93-17ac442663b7: Spalten # Spalten
     08ad0a02-3b3d-4515-8dd5-de9434d163a5: Inaktiv # Inaktiv
+    8fcea34e-570d-4161-a67c-7f02e0c3c3a0: 'Stage Headline' # Stage Headline
     9fdf44e3-df83-45d2-8b7a-2398e417e976: Gruppe # Gruppe
     28c19881-a5ea-4055-abaa-4adcd6e7cd3c: Textabschnitt # Textabschnitt
     42b295ab-e778-4c44-87d7-ad7aa073f4d3: Linktext # Linktext
@@ -41,11 +43,14 @@ meta:
     82ec8175-c042-421f-99cd-929ce4f61f95: Headline # Headline
     92f3cc18-4537-499a-bbbb-0576d2982d86: Extern # Extern
     186d67c0-9ba8-424d-acd7-ed6dd42c79a5: Priorität # Priorität
+    302ddeb7-0ec9-48ed-91da-7efc4552c901: Blogs # Blogs
     529ac1bc-4fd6-4508-b075-8c7b1cee7a63: Icon # Icon
     582be10c-d53c-4101-b2a3-d7ce716969a3: Module # Module
     659e06e8-6fe9-430b-a30d-6b02f7409190: Spalten # Spalten
     954edfab-2362-42ed-8269-00a88d878aa7: Global # Global
+    991c3fc7-9fbd-41bc-bb0c-7f9330eef165: 'Stage Image' # Stage Image
     12853f5e-57c7-40e4-908a-b7be4ce30bc7: Default # Default
+    29181b3d-4dd0-4ddf-bf2f-c0f11d0df767: 'Stage Skyline' # Stage Skyline
     64259d2d-817e-4fb4-a9be-619bd3c57014: Aktiv # Aktiv
     4588913f-bc97-4ebe-8ec3-29a8efce9e67: Bilder # Bilder
     9150003f-ee06-497a-bceb-c2c169d93206: sara # sara
@@ -68,6 +73,7 @@ meta:
     d632eb1b-e6c2-4db4-8bdd-a6ca9d7b6243: Hauptnavigation # Hauptnavigation
     df9d502e-e0d0-4608-bc4b-73ea824cf9e3: Breite # Breite
     e43fa49e-981e-4db6-90e4-b05806a84e06: Text # Text
+    f793a6da-d9c1-4133-8a8e-bed308d30ca5: Blog # Blog
     fdd12ccd-4b08-42bb-9a6b-298784bf9343: Image # Image
     ff673cc2-1bbc-4d7d-9f06-ccfbf36b33b5: Indexierung # Indexierung
 plugins:

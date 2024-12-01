@@ -5,8 +5,10 @@ scope:
   - 'elements.drafts:read'
   - 'elements.revisions:read'
   - 'elements.inactive:read'
+  - 'sections.302ddeb7-0ec9-48ed-91da-7efc4552c901:read' # Blogs
   - 'sections.7a5156f8-29e4-40da-9574-4f2b8abdff1e:read' # Hauptnavigation
   - 'sections.a5ba3d2a-68ae-4b35-a7bf-f9ef56ec8d9c:read' # Seiten
+  - 'nestedentryfields.7edacf73-0358-4f0e-a9c8-687eb26db450:read' # Stage Description
   - 'nestedentryfields.b40ec017-c91e-4689-b32c-0ba8fda3a466:read' # Text Editor
   - 'nestedentryfields.6fc95d6d-5f0d-47db-9505-2dcfa358def6:read' # Textabschnitt - Absatz - Text
   - 'nestedentryfields.6ba183da-ef91-4615-850d-4b82daf96849:read' # Link
