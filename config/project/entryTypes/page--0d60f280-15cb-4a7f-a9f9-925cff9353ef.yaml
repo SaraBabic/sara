@@ -187,7 +187,7 @@ fieldLayouts:
 handle: page
 hasTitleField: true
 icon: file
-name: Standard
+name: Page
 showSlugField: true
 showStatusField: true
 slugTranslationKeyFormat: null

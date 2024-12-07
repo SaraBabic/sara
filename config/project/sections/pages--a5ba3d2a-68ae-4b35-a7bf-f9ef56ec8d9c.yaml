@@ -1,7 +1,7 @@
 defaultPlacement: end
 enableVersioning: true
 entryTypes:
-  - 0d60f280-15cb-4a7f-a9f9-925cff9353ef # Standard
+  - 0d60f280-15cb-4a7f-a9f9-925cff9353ef # Page
 handle: pages
 name: Seiten
 previewTargets:

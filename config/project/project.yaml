@@ -1,4 +1,4 @@
-dateModified: 1733082347
+dateModified: 1733572333
 email:
   fromEmail: $EMAIL_SENDER_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -21,7 +21,7 @@ fs:
     url: '@assetsBaseUrl/global'
 meta:
   __names__:
-    0d60f280-15cb-4a7f-a9f9-925cff9353ef: Standard # Standard
+    0d60f280-15cb-4a7f-a9f9-925cff9353ef: Page # Page
     1b7fd4c0-889b-4a8c-8010-e7915547311d: 'Datei Link' # Datei Link
     2be93fc8-a8c8-4ef9-a881-6999042291c9: Kontaktformular # Kontaktformular
     2cd290cd-8f1d-486c-b6cf-5d12ecc3cd2d: Intern # Intern
@@ -61,6 +61,7 @@ meta:
     a807a09e-c6e8-4d37-974d-6ef3c2632920: Boilerplate # Boilerplate
     a861ea85-4c1a-458e-bc22-edfa3741c096: 'Einträge (Liste)' # Einträge (Liste)
     ac98e4ce-ad0c-4032-88e2-e57f1291e6ff: Text # Text
+    aecd756d-ec71-4ae9-b7ce-d66b5cf54270: Projects # Projects
     afcaedf5-aa35-4d4e-a7ad-e1be2bfb90d4: 'Headline level' # Headline level
     b40ec017-c91e-4689-b32c-0ba8fda3a466: 'Text Editor' # Text Editor
     b318a2f1-bca0-4969-b6ee-07239f330ead: 'Private Schema' # Private Schema
@@ -73,6 +74,7 @@ meta:
     d632eb1b-e6c2-4db4-8bdd-a6ca9d7b6243: Hauptnavigation # Hauptnavigation
     df9d502e-e0d0-4608-bc4b-73ea824cf9e3: Breite # Breite
     e43fa49e-981e-4db6-90e4-b05806a84e06: Text # Text
+    f57ff8c0-9c9b-43de-bc3e-5fe45d72f6bd: Project # Project
     f793a6da-d9c1-4133-8a8e-bed308d30ca5: Blog # Blog
     fdd12ccd-4b08-42bb-9a6b-298784bf9343: Image # Image
     ff673cc2-1bbc-4d7d-9f06-ccfbf36b33b5: Indexierung # Indexierung

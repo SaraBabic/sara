@@ -1,6 +1,6 @@
-color: amber
+color: sky
 fieldLayouts:
-  07a451ed-5806-4ef4-94a3-e5bb0c55fe8d:
+  5b8f3195-b522-483e-82ff-3f1cf7d4d202:
     tabs:
       -
         elementCondition: null
@@ -30,7 +30,7 @@ fieldLayouts:
             tip: null
             title: null
             type: craft\fieldlayoutelements\entries\EntryTitleField
-            uid: d4b7a59c-9d4f-4ac8-a4a3-2f63ce38d4bb
+            uid: 674afb5b-5d71-4156-89e9-591a6dea608b
             userCondition: null
             warning: null
             width: 100
@@ -45,12 +45,12 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 4dc5f1f3-7b21-4da2-9b3e-693a8a3efc4f
+            uid: cd64df4e-ded0-4778-bf36-b072b11cde1a
             userCondition: null
             warning: null
             width: 100
         name: Content
-        uid: 782ea26b-6099-41c0-a9d0-c0b9b5666c07
+        uid: 6048aae7-9541-458e-88ab-7d23fb192437
         userCondition: null
       -
         elementCondition: null
@@ -66,7 +66,7 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 69bd299b-f9fd-4e34-9b96-fea266bee329
+            uid: ff0a2df3-fde3-4c2e-a13c-f8eb0143090c
             userCondition: null
             warning: null
             width: 100
@@ -81,7 +81,7 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 6281855c-b87c-460a-971d-939659c42cad
+            uid: 22625286-439f-4f6b-b2c9-a75d439572e5
             userCondition: null
             warning: null
             width: 100
@@ -96,7 +96,7 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: c3913d7a-e400-491d-806b-69fdaa0f0ca1
+            uid: 012b25c6-158a-4290-97d1-734c639277f8
             userCondition: null
             warning: null
             width: 100
@@ -111,12 +111,12 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 3fe92bb2-2648-4ddf-81fc-ade6dabd01a6
+            uid: 4f16c46f-52ce-4791-98ef-9b84aede1225
             userCondition: null
             warning: null
             width: 100
-        name: SEO
-        uid: f879647d-6ef4-439c-98b5-b7ccfcd937f0
+        name: Seo
+        uid: 5b149739-d41d-44c5-9ded-ef9596462637
         userCondition: null
       -
         elementCondition: null
@@ -132,7 +132,7 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 5e235381-5b6c-45ac-a2de-df83a6eea9b0
+            uid: 24939541-900b-4ec0-bfd9-0f91befa14bf
             userCondition: null
             warning: null
             width: 100
@@ -147,7 +147,7 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 209f5fb7-d75a-42c3-aaac-f1b16f977750
+            uid: 3b87454e-d82b-4b35-b33c-b935069fa027
             userCondition: null
             warning: null
             width: 100
@@ -162,7 +162,7 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 46be764e-40d2-488e-b01c-e946502b0bee
+            uid: a567c69d-563f-4aec-8571-749ad2bde2af
             userCondition: null
             warning: null
             width: 100
@@ -177,17 +177,17 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 10b51195-c9fc-44ae-acab-25a9ba2cc06a
+            uid: f74534ce-dffc-4684-bb22-6e3be14b6a99
             userCondition: null
             warning: null
             width: 100
         name: Stage
-        uid: f1de11ce-76ee-4038-abe5-16b12e9e750a
+        uid: 6d4a9a34-d5bb-4231-af8b-a58f81271887
         userCondition: null
-handle: blog
+handle: project
 hasTitleField: true
-icon: marker
-name: Blog
+icon: rectangle-history
+name: Project
 showSlugField: true
 showStatusField: true
 slugTranslationKeyFormat: null
