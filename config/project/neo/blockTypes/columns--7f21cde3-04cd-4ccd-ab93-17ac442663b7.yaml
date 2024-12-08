@@ -17,6 +17,21 @@ fieldLayouts:
         elements:
           -
             elementCondition: null
+            fieldUid: cd715ebe-ed8a-469b-8c5e-03da82ba7be0 # Background color
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a68d9eab-04c2-42c9-80a2-5cf5ec685b7d
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            elementCondition: null
             fieldUid: 659e06e8-6fe9-430b-a30d-6b02f7409190 # Spalten
             handle: null
             includeInCards: false

@@ -1,0 +1,30 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  - 77e2762e-83e2-424b-818a-01034ad4996d # Footer Navigation
+handle: footerNavigation
+maxAuthors: 1
+name: 'Footer Navigation'
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  9150003f-ee06-497a-bceb-c2c169d93206: # sara
+    enabledByDefault: true
+    hasUrls: true
+    template: footer-navigation/_entry
+    uriFormat: 'footer-navigation/{slug}'
+structure:
+  maxLevels: null
+  uid: 0538057a-e7a5-4cdb-830a-fcab5fd12db6
+type: structure

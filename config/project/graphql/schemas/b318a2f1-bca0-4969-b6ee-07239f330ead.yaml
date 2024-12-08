@@ -6,6 +6,7 @@ scope:
   - 'elements.revisions:read'
   - 'elements.inactive:read'
   - 'sections.302ddeb7-0ec9-48ed-91da-7efc4552c901:read' # Blogs
+  - 'sections.71a5cbef-8243-4197-bd56-d70c92ef4e48:read' # Footer Navigation
   - 'sections.7a5156f8-29e4-40da-9574-4f2b8abdff1e:read' # Hauptnavigation
   - 'sections.aecd756d-ec71-4ae9-b7ce-d66b5cf54270:read' # Projects
   - 'sections.a5ba3d2a-68ae-4b35-a7bf-f9ef56ec8d9c:read' # Seiten
