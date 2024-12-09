@@ -1,0 +1,44 @@
+childBlocks: null
+color: green
+conditions: null
+description: ''
+enabled: true
+field: 582be10c-d53c-4101-b2a3-d7ce716969a3 # Module
+fieldLayouts:
+  8eb88863-bd86-4116-a464-740f129dbbe5:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: e43fa49e-981e-4db6-90e4-b05806a84e06 # Text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 08ebda49-dc23-4aec-b18f-10ad9b7b5efe
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 4749c363-f493-4f7d-806d-b526b9f2a561
+        userCondition: null
+group: null
+groupChildBlockTypes: true
+handle: matrix
+icon: null
+iconFilename: ''
+ignorePermissions: true
+maxBlocks: 0
+maxChildBlocks: 0
+maxSiblingBlocks: 0
+minBlocks: 0
+minChildBlocks: 0
+minSiblingBlocks: 0
+name: Matrix
+topLevel: true
