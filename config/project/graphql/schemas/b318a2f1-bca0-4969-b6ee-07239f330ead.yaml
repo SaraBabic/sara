@@ -17,5 +17,6 @@ scope:
   - 'nestedentryfields.28c19881-a5ea-4055-abaa-4adcd6e7cd3c:read' # Textabschnitt
   - 'volumes.954edfab-2362-42ed-8269-00a88d878aa7:read' # Global
   - 'globalsets.a7f070a5-b268-4ce3-9efa-a924ef697dc4:read' # Seitenkonfiguration
+  - 'categorygroups.a209f7b5-77be-4311-b663-5d1abe0a0df2:read' # Blog type
   - 'websites:getAll'
   - 'forms:create'
