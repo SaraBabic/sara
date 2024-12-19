@@ -11,6 +11,7 @@ fieldLayouts:
         elementCondition: null
         elements:
           -
+            dateAdded: '2024-12-19T21:36:59+00:00'
             elementCondition: null
             fieldUid: 67a6fc2c-6cec-4678-940f-945e6d696813 # Eintragstyp
             handle: null
@@ -26,6 +27,7 @@ fieldLayouts:
             warning: null
             width: 25
           -
+            dateAdded: '2024-12-19T21:36:59+00:00'
             elementCondition: null
             fieldUid: 4b3997e5-1b4b-41a8-be6e-6a2214024368 # Zahl
             handle: limit

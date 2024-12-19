@@ -11,6 +11,7 @@ fieldLayouts:
         elementCondition: null
         elements:
           -
+            dateAdded: '2024-12-19T21:36:59+00:00'
             elementCondition: null
             fieldUid: 6ba183da-ef91-4615-850d-4b82daf96849 # Link
             handle: null

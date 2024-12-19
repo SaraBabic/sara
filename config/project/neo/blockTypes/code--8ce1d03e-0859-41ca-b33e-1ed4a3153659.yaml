@@ -1,17 +1,17 @@
 childBlocks: null
-color: amber
+color: null
 conditions: null
 description: ''
 enabled: true
 field: 582be10c-d53c-4101-b2a3-d7ce716969a3 # Module
 fieldLayouts:
-  93bd48e6-6deb-43d9-aa71-f6b6f8ba6c67:
+  04c83f9b-ff74-4999-8ab2-11dc7ac316e0:
     tabs:
       -
         elementCondition: null
         elements:
           -
-            dateAdded: '2024-12-19T21:36:59+00:00'
+            dateAdded: '2024-12-19T21:37:59+00:00'
             elementCondition: null
             fieldUid: b40ec017-c91e-4689-b32c-0ba8fda3a466 # Text Editor
             handle: null
@@ -22,16 +22,16 @@ fieldLayouts:
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 0bbd4130-051f-4be9-9e1c-f2ad5c46d963
+            uid: 99b16d4b-62df-455f-b848-f2dbff38440b
             userCondition: null
             warning: null
             width: 100
-        name: Allgemein
-        uid: a2ab6c54-a0cf-4992-adb4-b850da593c6e
+        name: Content
+        uid: c8d14482-0593-4fae-a9a3-af63f1f45b57
         userCondition: null
 group: null
 groupChildBlockTypes: true
-handle: text
+handle: code
 icon: null
 iconFilename: ''
 ignorePermissions: true
@@ -41,5 +41,5 @@ maxSiblingBlocks: 0
 minBlocks: 0
 minChildBlocks: 0
 minSiblingBlocks: 0
-name: Text
+name: Code
 topLevel: true

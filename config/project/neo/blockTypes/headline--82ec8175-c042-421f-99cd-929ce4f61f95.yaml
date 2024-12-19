@@ -11,6 +11,7 @@ fieldLayouts:
         elementCondition: null
         elements:
           -
+            dateAdded: '2024-12-19T21:36:59+00:00'
             elementCondition: null
             fieldUid: e43fa49e-981e-4db6-90e4-b05806a84e06 # Text
             handle: null
@@ -26,6 +27,7 @@ fieldLayouts:
             warning: null
             width: 100
           -
+            dateAdded: '2024-12-19T21:36:59+00:00'
             elementCondition: null
             fieldUid: afcaedf5-aa35-4d4e-a7ad-e1be2bfb90d4 # Headline level
             handle: null
