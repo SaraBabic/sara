@@ -1,4 +1,4 @@
-dateModified: 1734645084
+dateModified: 1734986825
 email:
   fromEmail: $EMAIL_SENDER_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -54,7 +54,7 @@ meta:
     659e06e8-6fe9-430b-a30d-6b02f7409190: Spalten # Spalten
     954edfab-2362-42ed-8269-00a88d878aa7: Global # Global
     991c3fc7-9fbd-41bc-bb0c-7f9330eef165: 'Stage Image' # Stage Image
-    3523d483-f376-4e39-9361-5223a1a2e5d2: Matrix # Matrix
+    3523d483-f376-4e39-9361-5223a1a2e5d2: Parallax # Parallax
     12853f5e-57c7-40e4-908a-b7be4ce30bc7: Default # Default
     29181b3d-4dd0-4ddf-bf2f-c0f11d0df767: 'Stage Skyline' # Stage Skyline
     64259d2d-817e-4fb4-a9be-619bd3c57014: Aktiv # Aktiv
