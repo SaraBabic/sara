@@ -1,4 +1,4 @@
-dateModified: 1734986825
+dateModified: 1736186921
 email:
   fromEmail: $EMAIL_SENDER_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -35,6 +35,7 @@ meta:
     7edacf73-0358-4f0e-a9c8-687eb26db450: 'Stage Description' # Stage Description
     7f21cde3-04cd-4ccd-ab93-17ac442663b7: Spalten # Spalten
     08ad0a02-3b3d-4515-8dd5-de9434d163a5: Inaktiv # Inaktiv
+    8bd91c53-3e3e-4ad5-89a0-1abd09526dee: 'Accordion Item' # Accordion Item
     8ce1d03e-0859-41ca-b33e-1ed4a3153659: Code # Code
     8fcea34e-570d-4161-a67c-7f02e0c3c3a0: 'Stage Headline' # Stage Headline
     9fdf44e3-df83-45d2-8b7a-2398e417e976: Gruppe # Gruppe
@@ -62,6 +63,7 @@ meta:
     9150003f-ee06-497a-bceb-c2c169d93206: sara # sara
     62533532-ce6a-420e-8c67-b7c8029c525e: SEO-Beschreibung # SEO-Beschreibung
     a029f576-c04e-4755-8637-52c45e991860: Image # Image
+    a3cd8719-b92a-4aeb-8b26-af38b547518c: Accordion # Accordion
     a5ba3d2a-68ae-4b35-a7bf-f9ef56ec8d9c: Seiten # Seiten
     a7f070a5-b268-4ce3-9efa-a924ef697dc4: Seitenkonfiguration # Seitenkonfiguration
     a209f7b5-77be-4311-b663-5d1abe0a0df2: 'Blog type' # Blog type
@@ -116,7 +118,7 @@ plugins:
     edition: standard
     enabled: true
     licenseKey: NLJSR31FY5EDQWGNH5RAQRTJ
-    schemaVersion: 5.0.0.1
+    schemaVersion: 5.1.0.1
 system:
   edition: pro
   live: true

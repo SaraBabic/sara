@@ -1,0 +1,61 @@
+childBlocks: null
+color: null
+conditions: null
+description: ''
+enabled: true
+field: 582be10c-d53c-4101-b2a3-d7ce716969a3 # Module
+fieldLayouts:
+  67a5a3d6-f62f-480a-94c9-f19f6cff9ed8:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2025-01-06T18:03:18+00:00'
+            elementCondition: null
+            fieldUid: 5e5afb49-21a4-4870-a9d8-6c4125d9998e
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 2554a9a8-68a5-407a-86f4-af00cd3cfd49
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-01-06T18:02:43+00:00'
+            elementCondition: null
+            fieldUid: b40ec017-c91e-4689-b32c-0ba8fda3a466 # Text Editor
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4bc7ce8f-ac08-4a0f-ab83-0240ca2515a2
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: ed24f109-5aa3-4b8c-9c91-f175eb279333
+        userCondition: null
+group: null
+groupChildBlockTypes: true
+handle: accordionItem
+icon: null
+iconFilename: ''
+ignorePermissions: true
+maxBlocks: 0
+maxChildBlocks: 0
+maxSiblingBlocks: 0
+minBlocks: 0
+minChildBlocks: 0
+minSiblingBlocks: 0
+name: 'Accordion Item'
+topLevel: false

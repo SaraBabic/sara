@@ -1,12 +1,12 @@
 {
   "version": "0.2.0",
   "require": {
-    "craftcms/ckeditor": "4.0.6",
-    "craftcms/cms": "5.5.7",
+    "craftcms/ckeditor": "4.4.0",
+    "craftcms/cms": "5.5.8",
     "intention/contact-form": "0.3.3",
     "intention/craft-backup-service": "0.2.0",
     "intention/graphql-extended": "0.2.2",
-    "spicyweb/craft-neo": "^5.0.0",
+    "spicyweb/craft-neo": "5.2.21",
     "vlucas/phpdotenv": "^5.4.0"
   },
   "require-dev": {
